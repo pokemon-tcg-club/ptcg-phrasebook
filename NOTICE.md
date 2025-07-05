@@ -1,6 +1,6 @@
 # Copyright Notice
 
-© 2025 [@uents](https://github.com/uents). All rights reserved.
+© 2025 [@pokemon-tcg-club](https://github.com/pokemon-tcg-club). All rights reserved.
 This document and its content may not be copied, distributed, or modified without express written permission.
 
 Pokémon and all related images, names, and trademarks are the property of Nintendo, Creatures Inc., and GAME FREAK Inc.  
